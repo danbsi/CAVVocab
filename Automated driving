@@ -1,3 +1,7 @@
-Version: 1.0, Release date: January 2020
+Version: 2.0, Release date: June 2020
 
-Definition: When full responsibility for the dynamic driving task rests with the automated driving system.
+Definition: When the full function of the dynamic driving task is performed by the automated driving system within its operational design domain.
+
+NOTE 1: An automated vehicle driving itself is performing automated driving.
+
+NOTE 2: Automated driving may operate for some or all of a journey depending on the capabilities of the system, the suitability of infrastructure, any other constraints on its operational design domain and the preferences of the user-in-charge.
