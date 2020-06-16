@@ -1,7 +1,7 @@
-Version: 1.0, Release date: January 2020
+Version: 2.0, Release date: June 2020
 
-Definition: System that attempts to maintain the vehicle at a driver selected set speed and uses sensors and automation to regulate vehicle speed.
+Definition: System that attempts to maintain the vehicle at a driver selected target speed following distance, using sensors and automation to regulate vehicle speed.
 
 NOTE 1: The purpose is to keep a safe distance relative to other slower moving vehicles ahead before reverting to the set speed when the lane clears.
 
-NOTE 2: Some early adaptive cruise control systems, especially those vehicles with manual transmission, are not capable of bringing the vehicle to a complete stop and require the human driver to intervene to do so. Systems that are capable of controlling the vehicle to a stop have a variety of additional names such as ‘Stop & Go’ and ‘Traffic Jam Assist’.
+NOTE 2: Some early adaptive cruise control systems, especially those vehicles with manual transmission, are not capable of bringing the vehicle to a complete stop and require the human driver to intervene to do so. Systems that are capable of controlling the vehicle to a stop have a variety of additional names such as ‘Stop & Go’.
